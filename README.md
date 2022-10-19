@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @h4mn
+- 👀 I'm interested in creating tools and/or solutions that help you in some way
+- 🌱 I studied game development and am currently learning software analysis and development
+- 💞️ I'm looking to collaborate on projects that are starting or in the embryonic stage of Unity 3D or task automation
+- 📫 When you need something, make a mention to contact me
